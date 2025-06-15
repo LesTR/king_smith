@@ -9,6 +9,9 @@
             "local_name": "KS-ST-*"
         },
         {
+            "local_name": "KS-SC-*"
+        },
+        {
             "local_name": "WalkingPad"
         }
     ],
